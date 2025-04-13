@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Masoud Mapar</h1>
-<h3 align="center">Data Scientist | Insight Architect | Precision-Oriented Developer</h3>
+<h3 align="center">Data Scientist</h3>
 
 ---
 
