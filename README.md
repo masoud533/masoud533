@@ -23,7 +23,7 @@ Clarity, structure, and reproducibility are at the core of everything I build.
 ### Technical Stack
 | Languages | Libraries & Tools | Skills |
 |----------|-------------------|--------|
-| Python, SQL | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | Data Wrangling, Feature Engineering, ML Modeling, Model Evaluation, Git, Jupyter, VSCode, Linux |
+| Python, SQL | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn | Data Wrangling, Feature Engineering, ML Modeling, Model Evaluation, Git, Linux |
 
 ---
 
